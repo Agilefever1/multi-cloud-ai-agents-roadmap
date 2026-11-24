@@ -160,7 +160,7 @@ Now we put the three clouds together. We choose a cloud for each job, connect ag
 
 - [Solution architecture patterns for agentic AI systems](https://agilefever.com/agentic-ai-architecture-patterns-solution-architects/)
 - [What a capstone project should prove](https://agilefever.com/agilefever-capstones-what-they-prove/)
-- Comparing cost model, governance and ecosystem across clouds
+- [Comparing cost model, governance and ecosystem across clouds](https://agilefever.com/azure-vs-aws-vs-google-cloud-ai-agents/)
 - Agents on different clouds calling each other through A2A
 - Tracing a request across clouds
 
